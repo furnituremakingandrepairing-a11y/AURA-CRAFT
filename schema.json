@@ -1,0 +1,165 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://furnituremakingandrepairing.com/#business",
+      "name": "Wooden furniture making and repairing",
+      "image": "https://i.ibb.co/YwqFP1C/wooden-furniture-making-and-repairing-loho-modified.png",
+      "description": "All type furniture making and fixing repairing work. Find Best Carpentry Services for Hospital, Home, Office, Commercial, and Residential furniture. Book online carpenter in Mumbai for wardrobes, dining tables, study tables, dressing tables, safety doors, wall panelling, and TV units.",
+      "url": "https://furnituremakingandrepairing.com/",
+      "telephone": "+918691939871",
+      "email": "furnituremakingandrepairing@gmail.com",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Nityanand Nagar, Gautam Nagar, Near New Telephone Exchange, Ghatkopar West",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "postalCode": "400086",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "19.0984",
+        "longitude": "72.9103"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5.0",
+        "reviewCount": "100",
+        "bestRating": "5"
+      },
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Ghatkopar West, Mumbai"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Ghatkopar East, Mumbai"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Vikhroli West, Mumbai"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Vikhroli East, Mumbai"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Powai, Mumbai"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Kurla, Mumbai"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Chembur, Mumbai"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Saki Naka, Mumbai"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bhandup West, Mumbai"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bhandup East, Mumbai"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Kanjurmarg, Mumbai"
+        }
+      ],
+      "sameAs": [
+        "https://maps.google.com/?q=3WR8%2BV2+Mumbai,+Maharashtra"
+      ],
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Custom Furniture Making"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Furniture Repairing"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Polishing & Finishing"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Upholstery Services"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Interior Woodwork"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Doors & Windows"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://furnituremakingandrepairing.com/#carpenter",
+      "additionalType": "https://en.wikipedia.org/wiki/Carpentry",
+      "name": "Wooden furniture making and repairing",
+      "telephone": "+918691939871"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://furnituremakingandrepairing.com/#organization",
+      "name": "Wooden Furniture Making and Repairing",
+      "url": "https://furnituremakingandrepairing.com/",
+      "logo": "https://i.ibb.co/YwqFP1C/wooden-furniture-making-and-repairing-loho-modified.png"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://furnituremakingandrepairing.com/#website",
+      "url": "https://furnituremakingandrepairing.com/",
+      "name": "Wooden Furniture Making and Repairing",
+      "publisher": {
+        "@id": "https://furnituremakingandrepairing.com/#organization"
+      }
+    }
+  ]
+}

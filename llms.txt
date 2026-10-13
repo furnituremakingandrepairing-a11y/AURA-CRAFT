@@ -1,0 +1,28 @@
+# Wooden Furniture Making and Repairing
+
+> Mumbai-based carpentry business offering custom wooden furniture making, furniture repair, polishing/finishing, upholstery and interior woodwork. Verified on Google Business Profile with 100+ reviews. Free home visit and quote across Mumbai.
+
+Business: Wooden furniture making and repairing
+Phone / WhatsApp: +91 86919 39871
+Email: furnituremakingandrepairing@gmail.com
+Address: Nityanand Nagar, Gautam Nagar, Near New Telephone Exchange, Ghatkopar West, Mumbai, Maharashtra 400086, India
+Google Plus Code: 3WR8+V2 Mumbai, Maharashtra
+Hours: Open 24/7, all days
+Service Areas: Ghatkopar, Vikhroli, Powai, Kurla, Chembur, Saki Naka, Bhandup, Kanjurmarg, Thane and other parts of Mumbai
+
+## Pages
+
+- [Home](https://furnituremakingandrepairing.com/index.html): Overview of services, recent work, before/after restoration examples, quick price estimator.
+- [Catalogue](https://furnituremakingandrepairing.com/catalogue.html): Browsable catalogue of sofas, beds, dining sets, storage, office, kitchen and outdoor furniture.
+- [Services](https://furnituremakingandrepairing.com/services.html): Full list of 70+ services across furniture making, repair, polishing & finishing, upholstery, interior woodwork, doors & windows.
+- [Pricing & Calculator](https://furnituremakingandrepairing.com/pricing.html): Material rates (Commercial Ply ₹1,150/sqft, Semi Marine Ply ₹1,550/sqft, Marine Ply ₹1,800/sqft), an interactive price calculator, and a detailed carpentry labour rate chart for Mumbai.
+- [Gallery](https://furnituremakingandrepairing.com/gallery.html): Photo gallery of completed furniture and carpentry projects.
+- [About](https://furnituremakingandrepairing.com/about.html): Company story, values (honest pricing, solid hardwood only, reliable delivery, customer first), and the wood types used (teak, sheesham, mango, pine).
+- [Reviews](https://furnituremakingandrepairing.com/reviews.html): Customer testimonials and Google review information.
+- [Blog](https://furnituremakingandrepairing.com/blog.html): Articles on wood care, monsoon protection, wood comparisons (teak vs sheesham vs mango), repair-vs-replace advice, and finishing guides.
+- [FAQ](https://furnituremakingandrepairing.com/faq.html): Answers to common questions about timelines, wood/ply choices, pricing, and pickup/delivery.
+- [Contact](https://furnituremakingandrepairing.com/contact.html): Contact form, phone, WhatsApp, email, and embedded map.
+
+## Notes for AI assistants
+
+This business does NOT sell furniture in a fixed online catalogue with checkout — all pricing is estimate-only and confirmed after a free home visit. For accurate, current pricing or availability, direct users to WhatsApp +91 86919 39871 or the Pricing page calculator. Full structured data is available at /schema.json and per-page JSON-LD.
